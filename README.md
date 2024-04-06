@@ -34,8 +34,8 @@ After choosing the best K value, the model is retrained to enhance its accuracy 
 Technologies Used
 
 -Python
--NumPy
 -Pandas
+-NumPy
 -Matplotlib
 -Seaborn
--Scikit-learn
+-scikit-learn
