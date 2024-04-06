@@ -31,11 +31,3 @@ The project explores the process of selecting an optimal K value that improves t
 9. Retrain with new K Value
 After choosing the best K value, the model is retrained to enhance its accuracy and then evaluated once again to confirm the improvements.
 
-Technologies Used
-
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--scikit-learn
