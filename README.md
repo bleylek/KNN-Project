@@ -32,6 +32,7 @@ The project explores the process of selecting an optimal K value that improves t
 After choosing the best K value, the model is retrained to enhance its accuracy and then evaluated once again to confirm the improvements.
 
 Technologies Used
+
 -Python
 -NumPy
 -Pandas
